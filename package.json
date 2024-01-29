@@ -1,0 +1,24 @@
+{
+  "name": "@bigspinlab/shared-prettier",
+  "version": "0.0.1",
+  "description": "Prettier configuration preset",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": {
+    "name": "Bigspin Lab Developer",
+    "email": "info@bigspinlab.com",
+    "url": "https://bigspinlab.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bigspinlab/shared-prettier.git"
+  },
+  "peerDependencies": {
+    "prettier": "^3.2.4",
+    "prettier-plugin-organize-imports": "^3.2.4"
+  }
+}
