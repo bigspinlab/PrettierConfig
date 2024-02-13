@@ -11,7 +11,7 @@ for Bigspin Lab projects.
 $ npm i --save-dev @bigspinlab/shared-prettier
 
 # Install peer dependencies
-$ npx install-peerdeps --dev @carlsberg/shared-prettier
+$ npx install-peerdeps --dev @bigspinlab/shared-prettier
 ```
 
 2. Add the following to `package.json`:
